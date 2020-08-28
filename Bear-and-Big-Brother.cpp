@@ -12,4 +12,5 @@ int main()
        counter++;
    }
    cout << counter << endl;
+   return 0;
 }
